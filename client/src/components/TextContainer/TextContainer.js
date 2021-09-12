@@ -9,7 +9,7 @@ const TextContainer = ({ users }) => (
     <div>
       <h1>ChitChat.io <span role="img" aria-label="emoji">🗣️</span></h1>
       <h2>Front-End created using React</h2>
-      <h2>Back-End created using Express + Socket.IO</h2>
+      <h2>Back-End created using Node.js + Socket.IO</h2>
     </div>
     {
       users
